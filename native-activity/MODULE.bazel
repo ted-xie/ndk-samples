@@ -1,6 +1,6 @@
 module(
-  name = "native-activity",
-  version = "0.0.0",
+    name = "native-activity",
+    version = "0.0.0",
 )
 
 bazel_dep(name = "platforms", version = "0.0.10")
